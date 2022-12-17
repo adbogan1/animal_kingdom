@@ -1,0 +1,5 @@
+we want our background to be 1920x1080 compatible (currently 8192x500, width doesn't matter of course)
+
+8192x500 ->  17694.72x1080
+
+-multiply all values by 2.16
